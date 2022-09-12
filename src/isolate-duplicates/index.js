@@ -36,5 +36,6 @@ function isolateDuplicates(text) {
     console.log(char_string + " and "+ no_of_duplicates);
     return [char_string, no_of_duplicates];
 }
+
 console.log(isolateDuplicates("aaaabbcdefffffffg"))
 module.exports = isolateDuplicates;
