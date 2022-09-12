@@ -1,5 +1,5 @@
 {
-  "name": "challenges",
+  "name": "ls",
   "version": "2.0.0",
   "description": "Lab 1 - challenges",
   "main": "jest",
@@ -9,7 +9,7 @@
     "prepare": "husky install"
   },
   "keywords": [],
-  "author": "",
+  "author": "npm init",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^28.1.2",
@@ -21,5 +21,12 @@
   },
   "volta": {
     "node": "16.14.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm test isolate-duplicate"
+  },
+  "dependencies": {
+    "test": "^3.2.1"
   }
 }
